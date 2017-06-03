@@ -1,0 +1,18 @@
+.bg-amarelo {
+    background-color: #fff59d;
+    height: 100%;
+}
+
+.bg-verde {
+    background-color: #81c784;
+    height: 100%;
+}
+
+.bg-vermelho {
+    background-color: #e57373;
+    height: 100%;
+}
+
+.audio-display-none {
+    display: none !important;
+}
